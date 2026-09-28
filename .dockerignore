@@ -1,0 +1,6 @@
+.git
+.github
+php/.session_cache
+php/.mongo_profiles
+Dockerfile
+docker-compose.yml

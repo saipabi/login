@@ -1,0 +1,4 @@
+php/.session_cache/
+php/.mongo_profiles/
+.vscode/
+*.log
