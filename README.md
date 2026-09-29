@@ -1,7 +1,10 @@
 # AuthPortal - Full Stack Authentication & Profile Management System
 
 > **Internship Assignment Implementation**  
-> Flow: **Register &rarr; Login &rarr; Profile**
+> Flow: **Register &rarr; Login &rarr; Profile**  
+> 
+> 🌐 **Live Demo URL:** [https://authportal-app.onrender.com](https://authportal-app.onrender.com)  
+> 📁 **GitHub Repository:** [https://github.com/saipabi/login](https://github.com/saipabi/login)
 
 ---
 
